@@ -1,0 +1,9 @@
+Package: org.governorkratos.waktosfix
+Name: WaktosFix
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Fix for Waktos on iOS 16! Source code available at GitHub at: https://github.com/GovenorKratos/WaktosFix
+Maintainer: Governor Kratos
+Author: Governor Kratos
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
